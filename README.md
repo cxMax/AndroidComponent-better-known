@@ -8,12 +8,16 @@ learn android component
   * Android彻底组件化—代码和资源隔离 : https://www.jianshu.com/p/c7459b59dcd5
 * 使用DDComponentForAndroid ：
   * DDComponentForAndroid分析(1)　：　https://www.jianshu.com/p/5746e50ed572
+* XModulable : 
+  * 基于组件化/模块化的重构探索实践 : https://www.jianshu.com/p/8cb02606d528
+
 
 # project : 
 * DDComponentForAndroid : https://github.com/luojilab/DDComponentForAndroid
 * CC : https://github.com/luckybilly/CC
 * JIMU : https://github.com/mqzhangw/JIMU
 * ARouter : https://github.com/alibaba/ARouter
+* XModulable : https://github.com/xpleemoon/XModulable
 
 
 # 组件化和插件化的区别 ： 
