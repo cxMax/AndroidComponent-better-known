@@ -18,6 +18,11 @@ learn android component
 * JIMU : https://github.com/mqzhangw/JIMU
 * ARouter : https://github.com/alibaba/ARouter
 * XModulable : https://github.com/xpleemoon/XModulable
+* ModularizationArchitecture : https://github.com/SpinyTech/ModularizationArchitecture
+* Router : https://github.com/JumeiRdGroup/Router
+* ActivityRouter : https://github.com/mzule/ActivityRouter
+* AndroidComponent ： https://github.com/wustor/AndroidComponent
+  * 这个有问题， 全是通过反射去找独立module的类
 
 
 # 组件化和插件化的区别 ： 
